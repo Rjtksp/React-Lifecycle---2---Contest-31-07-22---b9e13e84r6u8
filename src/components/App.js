@@ -15,7 +15,9 @@ class App extends React.Component {
 
   }
 
-
+  ComponentMount(){
+    console.log('mounted')
+  }
   
   render() {
     console.log('rendered')
