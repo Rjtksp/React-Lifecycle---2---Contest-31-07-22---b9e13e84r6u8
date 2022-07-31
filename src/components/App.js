@@ -15,7 +15,7 @@ class App extends React.Component {
 
   }
 
-  ComponentMount(){
+  ComponentDidMount(){
     console.log('mounted')
   }
   
